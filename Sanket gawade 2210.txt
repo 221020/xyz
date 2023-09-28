@@ -1,1 +1,2 @@
-This is first line of code.
+my fist line code in github
+tis is secan lin
